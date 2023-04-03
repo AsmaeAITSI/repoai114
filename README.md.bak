@@ -2,3 +2,10 @@
 hola
 hello
 halo
+
+<<<<<<< HEAD
+modif master ***
+=======
+modif 3
+
+>>>>>>> testing
